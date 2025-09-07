@@ -1,0 +1,15 @@
+.intro {
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin: 16px 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  .intro {
+    font-size: 18px;
+  }
+}
